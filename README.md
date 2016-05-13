@@ -1,7 +1,7 @@
 CludCoin integration/staging tree
 ================================
 
-http://www.cludcoin.org
+http://www.cludcoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 CludCoin Developers
