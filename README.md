@@ -16,7 +16,7 @@ CludCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 167 coins per block
  
 For more information, as well as an immediately useable, binary version of
-the CludCoin client sofware, see http://www.cludcoin.org.
+the CludCoin client sofware, see http://www.cludcoin.com.
 
 License
 -------
