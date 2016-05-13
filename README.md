@@ -10,11 +10,9 @@ What is CludCoin?
 ----------------
 
 CludCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
+ - 1 minute block targets
+ - block halving 210000 blocks
+ - ~100200000 coins
  - 167 coins per block
  
 For more information, as well as an immediately useable, binary version of
