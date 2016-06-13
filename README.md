@@ -1,4 +1,4 @@
-CludCoin integration/staging tree
+CludCoin
 ================================
 
 http://www.cludcoin.com
